@@ -1,0 +1,22 @@
+.navdiv {
+    border: 5px outset darkolivegreen;
+    background-color: burlywood;    
+    text-align: Right;
+}
+.hdiv {
+    border: 5px outset darkolivegreen;
+    background-color: burlywood;    
+    text-align: center;
+  }
+.tabgraph {
+    position: relative;
+  }
+.tabcapt {
+    font-size: 36px;
+    margin-top: 10px;
+    text-align: center;
+    font-style: italic;
+    border: 5px outset darkolivegreen;
+    background-color: burlywood;    
+    text-align: center;
+  }
